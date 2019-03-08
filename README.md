@@ -1,2 +1,2 @@
 # blog
-my attempt at a personal blog
+my attempt at a technical blog
