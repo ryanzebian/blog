@@ -1,0 +1,19 @@
+baseurl = "https://www.ryanz.xyz/"
+title = "Ryan Zebian's Blog"
+copyright = "&copy; 2019 Ryan Zebian"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 15
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Ryan Zebian"
+    github = "ryanzebian"
+    linkedin = "ryan-zebian"
+
+[params]
+    tagline = "Coder and Tinkerer"
