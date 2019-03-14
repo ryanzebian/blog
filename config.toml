@@ -17,3 +17,4 @@ pygmentsCodeFences = true
 
 [params]
     tagline = "Coder and Tinkerer"
+    description="Articles on all things Web."
